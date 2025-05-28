@@ -5,6 +5,10 @@
 
 ---
 
+You can access the project from this link:
+
+https://colab.research.google.com/drive/1TpVsrdYzAlGqlV3rJkjQd8dH5WEPouVF?usp=sharing
+
 ## 📦 Requirements (실행 환경 및 의존성)
 
 아래 패키지가 필요합니다:
